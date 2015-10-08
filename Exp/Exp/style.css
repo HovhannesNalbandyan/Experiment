@@ -12,7 +12,7 @@ h2{
     color:#506BE2
 }
 
-#right {
+.right {
     word-spacing:2px;
     text-align:center;
    
@@ -27,7 +27,6 @@ h2{
     width: 550px;
     height: 200px;
     padding-right: 20px;
-    position:static;
     color:#3E54E2;
     
 }
@@ -37,7 +36,6 @@ h2{
     border-radius: 10px;
     width:550px;
     height:260px;
-    position:static;
     color:#3E54E2;
    
     
